@@ -5,6 +5,7 @@ body {
     margin: 0px;
 }
 
+<<<<<<< HEAD
 #allcontent{
     width: 800px;
     padding-top: 5px;
@@ -15,13 +16,19 @@ body {
 }
 
 header {
+=======
+#header {
+>>>>>>> db13a985c9813f2083b367be1d08912362caf512
     background-color: #675c47; 
     margin: 10px; 
     height: 108px;
 }
 
 #main{
+<<<<<<< HEAD
     display: table-cell;
+=======
+>>>>>>> db13a985c9813f2083b367be1d08912362caf512
     background: #efe5d0 url(imagenes/background.gif) top left; 
     font-size: 105%; 
     padding: 15px;
@@ -29,6 +36,7 @@ header {
 }
     
 
+<<<<<<< HEAD
 aside {
     display: table-cell;
     background: #efe5d0 url(imagenes/background.gif) bottom right; 
@@ -43,13 +51,30 @@ aside {
 
     
 footer {
+=======
+#sidebar {
+    background: #efe5d0 url(imagenes/background.gif) bottom right; 
+    font-size: 105%; 
+    padding: 15px;
+    margin: 0px 10px 10px 10px;
+    width: 280px;
+    float: right;
+}
+
+    
+#footer {
+>>>>>>> db13a985c9813f2083b367be1d08912362caf512
     background-color: #675c47; 
     color: #efe5d0;
     text-align: center;
     padding: 15px; 
     margin: 10px; 
     font-size: 90%;
+<<<<<<< HEAD
     clear: left;
+=======
+    clear: right;
+>>>>>>> db13a985c9813f2083b367be1d08912362caf512
 }
 
 h1{
@@ -78,6 +103,7 @@ a:visited {
     text-decoration: none;
     border-bottom: thin dotted #675c47;
 }
+<<<<<<< HEAD
 
 div#tableContainer{
     display: table;
@@ -103,3 +129,5 @@ div#tableRow{
 #cupon a img{
     border-radius: none;
 }
+=======
+>>>>>>> db13a985c9813f2083b367be1d08912362caf512
