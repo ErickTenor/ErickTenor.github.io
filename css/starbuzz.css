@@ -60,7 +60,7 @@ body {
   /* added section#blog for blog */
   section#main, section#blog {
     display: table-cell;
-    background:       #efe5d0 url(images/background.gif) top left;
+    background:       #efe5d0 url(img/background.gif) top left;
     font-size:        105%;
     padding:          15px;
     vertical-align: top;
@@ -68,7 +68,7 @@ body {
   
   aside {
     display: table-cell;
-    background:       #efe5d0 url(images/background.gif) bottom right;
+    background:       #efe5d0 url(img/background.gif) bottom right;
     font-size:        105%;
     padding:          15px;
     vertical-align: top;
